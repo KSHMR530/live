@@ -11,4 +11,4 @@
 山东少儿,rtp/239.253.2.230:9374
 山东体育休闲,rtp/239.253.2.161:8960
 山东教育卫视,rtp/239.253.2.184:9098
-山东居家购物,rtp/239.253.2.149:8888
+山东齐鲁3,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/223.99.189.54:1556/00/SNM/CHANNEL00000301/m3u8
