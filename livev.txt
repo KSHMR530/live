@@ -1,4 +1,4 @@
-山东,#genre#
+🍁山东,#genre#
 山东齐鲁,http://livealone.iqilu.com/iqilu/qlpdhjOF03kn.f
 山东齐鲁2,http://119.164.216.162:9901/tsfile/live/1003_1.m3u8
 齐鲁频道4,rtmp://livealone.iqilu.com/iqilu/qlpdhjOF03kn
@@ -34,7 +34,7 @@
 东营科教,http://stream.hhek.cn/dyjy/sd/live.m3u8
 聊城新闻综合,http://m3u8.channellive.lcbtv.com/nmip-media/channellive/channel101173/playlist.m3u8
 聊城民生,http://m3u8.channellive.lcbtv.com/nmip-media/channellive/channel101246/playlist.m3u8
-广西,#genre#
+🍁广西,#genre#
 广西综艺,http://171.38.25.61:999/hls/2/index.m3u8
 广西卫视,http://171.38.25.61:999/hls/1/index.m3u8
 南宁都市,http://hls.nntv.cn/nnlive/NNTV_METRO_A.m3u8
@@ -42,7 +42,7 @@
 广西影视,http://171.38.25.61:999/hls/6/index.m3u8
 广西新闻,http://171.38.25.61:999/hls/4/index.m3u8
 广西都市,http://171.38.25.61:999/hls/3/index.m3u8
-凤凰,#genre#
+🍁凤凰,#genre#
 凤凰中文,http://r.jdshipin.com/cCCzW
 凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰资讯,http://r.jdshipin.com/0Rp07
@@ -66,7 +66,7 @@ TVB-E,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&strea
 TVB星河,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153506
 TVB千禧经典,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153503
 TVB娱乐.新闻,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153504
-综合,#genre#
+🍁综合,#genre#
 珠江台-高清,http://183.238.105.246:9901/tsfile/live/1056_1.m3u8?key=txiptv&playlive=1&authid=0
 广东新闻-高清,http://183.238.105.246:9901/tsfile/live/1057_1.m3u8?key=txiptv&playlive=1&authid=0
 广东公共-高清,http://183.238.105.246:9901/tsfile/live/1058_1.m3u8?key=txiptv&playlive=1&authid=0
