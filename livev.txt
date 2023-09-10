@@ -1,7 +1,7 @@
 山东,#genre#
 山东齐鲁,http://livealone.iqilu.com/iqilu/qlpdhjOF03kn.f
 山东齐鲁2,http://119.164.216.162:9901/tsfile/live/1003_1.m3u8
-山东齐鲁4,rtmp://livealone.iqilu.com/iqilu/qlpdhjOF03kn
+齐鲁频道4,rtmp://livealone.iqilu.com/iqilu/qlpdhjOF03kn
 🍁齐鲁综合,#genre#
 齐鲁频道,rtmp://livealone.iqilu.com/iqilu/qlpdhjOF03kn
 山东新闻,rtmp://livealone.iqilu.com/iqilu/ggpdhjOF03kn
