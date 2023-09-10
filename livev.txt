@@ -2,7 +2,7 @@
 山东齐鲁,http://livealone.iqilu.com/iqilu/qlpdhjOF03kn.f
 山东齐鲁2,http://119.164.216.162:9901/tsfile/live/1003_1.m3u8
 齐鲁频道4,rtmp://livealone.iqilu.com/iqilu/qlpdhjOF03kn
-山东齐鲁[1920x1080][20230601],https://epg.pw/stream/35b4f70795e521f07f4394eec32e42f6cb7f7845abe229ec90785d61c1bc1b3f.m3u8
+山东齐鲁1080,https://epg.pw/stream/35b4f70795e521f07f4394eec32e42f6cb7f7845abe229ec90785d61c1bc1b3f.m3u8
 🍁齐鲁综合,#genre#
 齐鲁频道,rtmp://livealone.iqilu.com/iqilu/qlpdhjOF03kn
 山东新闻,rtmp://livealone.iqilu.com/iqilu/ggpdhjOF03kn
