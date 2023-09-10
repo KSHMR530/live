@@ -1,16 +1,7 @@
 山东,#genre#
 山东齐鲁,http://livealone.iqilu.com/iqilu/qlpdhjOF03kn.f
 山东齐鲁2,http://119.164.216.162:9901/tsfile/live/1003_1.m3u8
-山东齐鲁4,rtmp://livealone.iqilu.com/iqilu/qlpdhjOF03kn
-山东新闻,rtp/239.253.2.160:8954
-山东齐鲁,rtp/239.253.2.155:8924
-山东生活,rtp/239.253.2.190:9134
-山东文旅,rtp/239.253.2.191:9140
-山东综艺,rtp/239.253.2.192:9146
-山东农科,rtp/239.253.2.225:9344
-山东少儿,rtp/239.253.2.230:9374
-山东体育休闲,rtp/239.253.2.161:8960
-山东教育卫视,rtp/239.253.2.184:9098
+山东齐鲁4,rtmp://livealone.iqilu.com/iqilu/qlpdhjOF03k
 山东卫视,http://hz752.live:63/vvs/astv.php?id=sdwshd
 山东卫视,http://39.134.136.151:6610/000000001000/1000000001000012807/index.m3u8?channel-id=ystenlive&Contentid=1000000001000012807&livemode=1&stbId=00
 山东卫视,http://hz752.live:63/vvs/sdws.php?id=sdtv
